@@ -1,0 +1,59 @@
+00|Successful approval|
+01|Refer to card issuer|Registrasi gagal, hubungi BNI Call 1500046
+02|Refer to card issuer|Registrasi gagal, hubungi BNI Call 1500046
+03|Invalid Credential|Registrasi gagal, hubungi BNI Call 1500046
+04|Pickup|Registrasi gagal, hubungi BNI Call 1500046
+05|Do not honor|Registrasi gagal, hubungi BNI Call 1500046
+06|General error|Registrasi gagal, silahkan coba beberapa saat lagi
+07|Pickup|Registrasi gagal, hubungi BNI Call 1500046
+08|Successful approval|
+09|Request in progress|Registrasi gagal, silahkan coba beberapa saat lagi
+10|Successful approval|
+11|Successful approval|
+12|Invalid transaction|Registrasi gagal, hubungi BNI Call 1500046
+13|Invalid transaction|Registrasi gagal, hubungi BNI Call 1500046
+14|Invalid Credential|Registrasi gagal, hubungi BNI Call 1500046
+15|No such issuer|Registrasi gagal, hubungi BNI Call 1500046
+16|Insufficient funds|Registrasi gagal, hubungi BNI Call 1500046
+17|Customer cancellation|Registrasi gagal, silahkan coba beberapa saat lagi
+19|Re-enter transaction|Registrasi gagal, silahkan coba beberapa saat lagi
+20|Invalid response|Registrasi gagal, hubungi BNI Call 1500046
+21|Invalid transaction|Registrasi gagal, hubungi BNI Call 1500046
+22|Suspected Malfunction|Registrasi gagal, silahkan coba beberapa saat lagi
+25|Unable to locate record in file|Registrasi gagal, silahkan coba beberapa saat lagi
+28|File is temporarily unavailable|Registrasi gagal, silahkan coba beberapa saat lagi
+30|Format error|Registrasi gagal, silahkan coba beberapa saat lagi
+33|Expired card|Data yang Anda masukkan salah
+41|Card reported lost|Registrasi gagal, hubungi BNI Call 1500046
+43|Card reported stolen|Registrasi gagal, hubungi BNI Call 1500046
+51|Insufficient funds|Registrasi gagal, hubungi BNI Call 1500046
+52|No checking account|Registrasi gagal, hubungi BNI Call 1500046
+53|No savings account|Registrasi gagal, hubungi BNI Call 1500046
+54|Expired card|Data yang Anda masukkan salah
+55|Incorrect PIN|Data yang Anda masukkan salah
+57|Transaction not permitted to cardholder|Registrasi gagal, hubungi BNI Call 1500046
+58|Transaction not allowed at terminal|Registrasi gagal, hubungi BNI Call 1500046
+59|Suspected fraud|Registrasi gagal, hubungi BNI Call 1500046
+61|Activity amount limit exceeded|Registrasi gagal, hubungi BNI Call 1500046
+62|Restricted card|Registrasi gagal, hubungi BNI Call 1500046
+63|Security violation|Registrasi gagal, hubungi BNI Call 1500046
+65|Activity count limit exceeded|Registrasi gagal, hubungi BNI Call 1500046
+68|Response received too late|Registrasi gagal, silahkan coba beberapa saat lagi
+75|Allowable number of PIN-entry tries exceeded|PIN yang Anda masukkan lebih dari jumlah maksimum, hubungi BNI Call 1500046
+76|Unable to locate previous message|Registrasi gagal, silahkan coba beberapa saat lagi
+77|Previous message located for a repeat or reversal|Registrasi gagal, silahkan coba beberapa saat lagi
+78|Blocked|Registrasi gagal, hubungi BNI Call 1500046
+80|Credit issuer unavailable|Registrasi gagal, silahkan coba beberapa saat lagi
+81|PIN cryptographic error found|Registrasi gagal, silahkan coba beberapa saat lagi
+82|Negative CAM|Registrasi gagal, hubungi BNI Call 1500046
+83|Unable to verify PIN|Registrasi gagal, silahkan coba beberapa saat lagi
+85|No reason to decline a request for account number verification|Registrasi gagal, hubungi BNI Call 1500046
+87|Invalid DoB|Data yang Anda masukkan salah
+88|System malfunction|Registrasi gagal, silahkan coba beberapa saat lagi
+89|Invalid Credential|Registrasi gagal, hubungi BNI Call 1500046
+91|Issuer unavailable or switch inoperative|Registrasi gagal, silahkan coba beberapa saat lagi
+92|System malfunction|Registrasi gagal, silahkan coba beberapa saat lagi
+93|Transaction cannot be completed|Registrasi gagal, silahkan coba beberapa saat lagi
+94|Duplicate transmission|Registrasi gagal, silahkan coba beberapa saat lagi
+95|Reconcile error|Registrasi gagal, silahkan coba beberapa saat lagi
+96|System malfunction|Registrasi gagal, silahkan coba beberapa saat lagi

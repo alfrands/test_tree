@@ -1,0 +1,24 @@
+ |Aktif|0|0|
+A|Tidak Aktif|2|1|Kartu Anda sudah tidak aktif
+B||3|1|Informasi kartu tidak dapat diakses,<br>info BNI Call 1500046
+C|Blok|0|2|Kartu Anda terblokir sementara, segera lakukan pembayaran agar kartu dapat digunakan kembali
+D|Blok|0|2|Kartu Anda terblokir sementara, segera lakukan pembayaran untuk menghindari terblokir permanen
+E|Blok|1|1|Kartu Anda telah terblokir,<br>info BNI Call 1500046
+F|Blok|1|1|Kartu Anda telah terblokir,<br>info BNI Call 1500046
+H|Overlimit|0|2|Pemakaian kartu Anda sudah melebihi limit, segera lakukan pembayaran agar kartu dapat digunakan kembali
+J|Tidak Aktif|0|1|Kartu Anda telah terblokir,<br>info BNI Call 1500046
+K|Tidak Aktif|1|1|Informasi kartu tidak dapat diakses,<br>info BNI Call 1500046
+L|Blok|1|1|Kartu Anda telah terblokir,<br>info BNI Call 1500046
+M|Blok|0|2|Kartu Anda telah terblokir,<br>info BNI Call 1500046
+N|-|3||Kartu tidak dapat diakses
+P|Blok|0|2|Kartu Anda terblokir sementara, segera lakukan pembayaran agar kartu dapat digunakan kembali
+Q|Aktif|0|0|
+R|Aktif|0|0|
+S|Blok|1|1|Kartu Anda telah terblokir,<br>info BNI Call 1500046
+T|Blok|1|1|Kartu Anda telah terblokir,<br>info BNI Call 1500046
+U|-|3||Kartu tidak dapat diakses
+V|Aktif|0|0|
+W|Blok|1|1|Kartu Anda telah terblokir,<br>info BNI Call 1500046
+X|Blok|1|2|Informasi kartu tidak dapat diakses,<br>info BNI Call 1500046
+Y|Aktif|0|0|
+Z|Blok|1|1|Kartu Anda telah terblokir,<br>info BNI Call 1500046
